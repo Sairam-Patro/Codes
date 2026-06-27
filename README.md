@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sairam-Patro/Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sairam-Patro/Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

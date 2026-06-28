@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sairam-Patro/Codes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sairam-Patro/Codes/tree/master/0875-koko-eating-bananas) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sairam-Patro/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->

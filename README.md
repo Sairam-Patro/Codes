@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sairam-Patro/Codes/tree/master/0875-koko-eating-bananas) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sairam-Patro/Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sairam-Patro/Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sairam-Patro/Codes/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sairam-Patro/Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sairam-Patro/Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sairam-Patro/Codes/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairam-Patro/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sairam-Patro/Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sairam-Patro/Codes/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sairam-Patro/Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sairam-Patro/Codes/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |

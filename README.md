@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sairam-Patro/Codes/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Sairam-Patro/Codes/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->

@@ -98,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Sairam-Patro/Codes/tree/master/0182-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/Sairam-Patro/Codes/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sairam-Patro/Codes/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Sairam-Patro/Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sairam-Patro/Codes/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sairam-Patro/Codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairam-Patro/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sairam-Patro/Codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sairam-Patro/Codes/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sairam-Patro/Codes/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sairam-Patro/Codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sairam-Patro/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sairam-Patro/Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Sairam-Patro/Codes/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |

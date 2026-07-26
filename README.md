@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sairam-Patro/Codes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sairam-Patro/Codes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Sairam-Patro/Codes/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairam-Patro/Codes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sairam-Patro/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairam-Patro/Codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sairam-Patro/Codes/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Sairam-Patro/Codes/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sairam-Patro/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sairam-Patro/Codes/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sairam-Patro/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |

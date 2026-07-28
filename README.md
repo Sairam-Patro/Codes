@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairam-Patro/Codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sairam-Patro/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sairam-Patro/Codes/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sairam-Patro/Codes/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sairam-Patro/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sairam-Patro/Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sairam-Patro/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sairam-Patro/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

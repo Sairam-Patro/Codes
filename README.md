@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Sairam-Patro/Codes/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Sairam-Patro/Codes/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairam-Patro/Codes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sairam-Patro/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sairam-Patro/Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Sairam-Patro/Codes/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Sairam-Patro/Codes/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sairam-Patro/Codes/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sairam-Patro/Codes/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sairam-Patro/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sairam-Patro/Codes/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sairam-Patro/Codes/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sairam-Patro/Codes/tree/master/0021-merge-two-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sairam-Patro/Codes/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

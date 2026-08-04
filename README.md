@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sairam-Patro/Codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sairam-Patro/Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Sairam-Patro/Codes/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sairam-Patro/Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sairam-Patro/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sairam-Patro/Codes/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/Sairam-Patro/Codes/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sairam-Patro/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sairam-Patro/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sairam-Patro/Codes/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sairam-Patro/Codes/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |

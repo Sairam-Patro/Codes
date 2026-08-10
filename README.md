@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sairam-Patro/Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sairam-Patro/Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sairam-Patro/Codes/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Sairam-Patro/Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sairam-Patro/Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sairam-Patro/Codes/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sairam-Patro/Codes/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sairam-Patro/Codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sairam-Patro/Codes/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sairam-Patro/Codes/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sairam-Patro/Codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sairam-Patro/Codes/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sairam-Patro/Codes/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sairam-Patro/Codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sairam-Patro/Codes/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sairam-Patro/Codes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
